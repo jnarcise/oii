@@ -1,0 +1,19 @@
+/venv
+__pycache__
+*.pyc
+*.sqlite
+/static
+/media
+/bower_components
+/node_modules
+/ansible/initial_data/
+vault_pass.txt
+*.log
+*.retry
+.env
+.DS_Store
+htmlcov
+
+# webpack
+webpack-bundle.json
+/oii/static/assets
